@@ -4,7 +4,7 @@
  *  @Version: 1.0
  *  @Course: ITEC 2140 Section 05 Spring 2023
  *  @Written: 05 February 2023
- *  @Description: Program to calculate base area and volume of a cylinder, given the length of the cylinder
+ *  @Description: Program to calculate base area and volume of a cylinder, given the length and radius of the cylinder
  */
 
 

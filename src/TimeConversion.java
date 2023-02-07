@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * @Class: TimeConversion
  * @Author: Maurice Rivers
- * @Version: 1.0
+ * @Version: 1.1
  * @Course: ITEC 2140 Section 05 Spring 2023
  * @Written: 05 February 2023
  * @Description: Program to convert number of seconds into hours, minutes, and seconds
