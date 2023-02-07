@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6abc8bce-008c-4c49-9ef5-22c8c8ba3aeb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaseAreaAndVolumeOfCylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TimeConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textbookHomework2.iml" afterDir="false" />
+    <list default="true" id="6abc8bce-008c-4c49-9ef5-22c8c8ba3aeb" name="Changes" comment="textbookHomework2.java added">
+      <change afterPath="$PROJECT_DIR$/src/Paint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +47,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675650522120</updated>
     </task>
+    <task id="LOCAL-00001" summary="textbookHomework2.java added">
+      <created>1675742041059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675742041059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="textbookHomework2.java added" />
+    <option name="LAST_COMMIT_MESSAGE" value="textbookHomework2.java added" />
   </component>
 </project>
